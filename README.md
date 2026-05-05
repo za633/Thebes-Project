@@ -1,2 +1,2 @@
 # Thebes-Project
-landing page project
+A respponsive landing page project built using HTML, CSS, and JavaScript.
